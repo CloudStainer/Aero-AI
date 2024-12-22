@@ -5646,7 +5646,7 @@ var Ho = q(sa),
                           children: e(R, {
                             className: "framer-1l8lg67-container",
                             children: e(De, {
-                              b7KjVooU6: "https://dapp.AeroAI.network/",
+                              b7KjVooU6: "https://aero-ai-app.vercel.app/",
                               GEEqX3ypi: "AeroAI | DApp",
                               height: "100%",
                               id: "QR4rwNAZx",
@@ -7513,7 +7513,7 @@ var Ho = q(sa),
                               children: e(R, {
                                 className: "framer-96oel1-container",
                                 children: e(De, {
-                                  b7KjVooU6: "https://dapp.AeroAI.network/",
+                                  b7KjVooU6: "https://aero-ai-app.vercel.app/",
                                   GEEqX3ypi: "AeroAI | DApp",
                                   height: "100%",
                                   id: "GXA2eb8ZP",
@@ -10251,7 +10251,7 @@ var Ho = q(sa),
                       children: e(R, {
                         className: "framer-1rl4ciz-container",
                         children: e(De, {
-                          b7KjVooU6: "https://dapp.AeroAI.network/",
+                          b7KjVooU6: "https://aero-ai-app.vercel.app/",
                           GEEqX3ypi: "AeroAI | DApp",
                           height: "100%",
                           id: "e2koohhiv",
